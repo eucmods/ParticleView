@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	android:background="#D6D9DC"
+	tools:context=".MainActivity">
+
+	<com.cmods.heagoo.huo.ParticleView
+		android:id="@+id/particleView"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		app:particleCount="60"
+		app:particleMinRadius="3"
+		app:particleMaxRadius="10"
+		app:particlesBackgroundColor="#D6D9DC"
+		app:particleColor="@android:color/holo_green_dark"
+		app:particleLineColor="@android:color/holo_green_dark"
+		app:particleLinesEnabled="true"/>
+
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"/>
+
+</FrameLayout>
+

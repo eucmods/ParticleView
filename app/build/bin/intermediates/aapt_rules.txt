@@ -1,0 +1,81 @@
+# Referenced at /storage/emulated/0/AndroidIDEProjects/INSTALADOR CP/Particles_animated/app/build/bin/merged/AndroidManifest.xml:19
+-keep class com.cmods.heagoo.huo.MainActivity { <init>(); }
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/design/25.0.0/design-25.0.0.exploded.aar/res/layout/design_bottom_navigation_item.xml:26
+-keep class android.support.design.internal.BaselineLayout { <init>(...); }
+
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/design/25.0.0/design-25.0.0.exploded.aar/res/layout/design_navigation_item.xml:17
+-keep class android.support.design.internal.NavigationMenuItemView { <init>(...); }
+
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/design/25.0.0/design-25.0.0.exploded.aar/res/layout/design_navigation_menu.xml:17
+-keep class android.support.design.internal.NavigationMenuView { <init>(...); }
+
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/design/25.0.0/design-25.0.0.exploded.aar/res/layout/design_text_input_password_icon.xml:18
+-keep class android.support.design.widget.CheckableImageButton { <init>(...); }
+
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/design/25.0.0/design-25.0.0.exploded.aar/res/layout/design_bottom_sheet_dialog.xml:17
+-keep class android.support.design.widget.CoordinatorLayout { <init>(...); }
+
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/design/25.0.0/design-25.0.0.exploded.aar/res/layout/design_layout_snackbar.xml:18
+-keep class android.support.design.widget.Snackbar$SnackbarLayout { <init>(...); }
+
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.exploded.aar/res/layout/abc_alert_dialog_material.xml:75
+-keep class android.support.v4.widget.NestedScrollView { <init>(...); }
+
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.exploded.aar/res/layout/abc_alert_dialog_button_bar_material.xml:39
+-keep class android.support.v4.widget.Space { <init>(...); }
+
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.exploded.aar/res/layout/abc_action_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.exploded.aar/res/layout/abc_expanded_menu_layout.xml:17
+-keep class android.support.v7.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.exploded.aar/res/layout/abc_list_menu_item_layout.xml:17
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.exploded.aar/res/layout/abc_popup_menu_item_layout.xml:17
+-keep class android.support.v7.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.exploded.aar/res/layout/abc_screen_toolbar.xml:27
+-keep class android.support.v7.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.exploded.aar/res/layout/abc_action_mode_bar.xml:19
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.exploded.aar/res/layout/abc_screen_toolbar.xml:43
+-keep class android.support.v7.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.exploded.aar/res/layout/abc_screen_toolbar.xml:17
+-keep class android.support.v7.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.exploded.aar/res/layout/abc_action_menu_layout.xml:17
+-keep class android.support.v7.widget.ActionMenuView { <init>(...); }
+
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.exploded.aar/res/layout/abc_activity_chooser_view.xml:19
+-keep class android.support.v7.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.exploded.aar/res/layout/abc_alert_dialog_button_bar_material.xml:18
+-keep class android.support.v7.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.exploded.aar/res/layout/abc_screen_content_include.xml:19
+-keep class android.support.v7.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.exploded.aar/res/layout/abc_alert_dialog_material.xml:48
+-keep class android.support.v7.widget.DialogTitle { <init>(...); }
+
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.exploded.aar/res/layout/abc_screen_simple_overlay_action_mode.xml:23
+-keep class android.support.v7.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.exploded.aar/res/layout/abc_dialog_title_material.xml:22
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.exploded.aar/res/layout/abc_screen_simple.xml:17
+-keep class android.support.v7.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.exploded.aar/res/layout/abc_search_view.xml:75
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.exploded.aar/res/layout/abc_screen_toolbar.xml:36
+-keep class android.support.v7.widget.Toolbar { <init>(...); }
+
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.exploded.aar/res/layout/abc_screen_simple.xml:25
+# Referenced at /data/user/0/io.github.zeroaicy.aide/no_backup/.aide/maven/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.exploded.aar/res/layout/abc_screen_simple_overlay_action_mode.xml:32
+-keep class android.support.v7.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at /storage/emulated/0/AndroidIDEProjects/INSTALADOR CP/Particles_animated/app/src/main/res/layout/main.xml:11
+-keep class com.cmods.heagoo.huo.ParticleView { <init>(...); }
+
